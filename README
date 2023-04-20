@@ -1,0 +1,13 @@
+Name: Ricardo Avila
+ID: 830323421
+
+Structure of Program:
+File organization: palindrome.cpp
+Functional organization: Main() takes input of string and then converts to corresponding data type for functions
+and then checks if its a palindrome if not converts into palindrome.
+
+Status: It works well except the integer function thinks strings
+
+Hardware & platform I used: Intel core i7 with 16GB RAM MacOS
+
+Compile: extract the archive and then from shell run "make". This will create executable hw2 and then run ./hw2
